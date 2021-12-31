@@ -1,2 +1,3 @@
-# coding365challenge
-#coding365challenge for 2022
+# 2022 Coding Challenge
+Code every day with inspiration from the 365 Photo Challenge
+#coding365challenge
